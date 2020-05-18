@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Book List</string>
+    <string name="cover">Cover</string>
+    <string name="overview">Overview</string>
+    <string name="release_date">Release Date</string>
+    <string name="total_pages">Total Pages</string>
+    <string name="publisher">Publisher</string>
+    <string name="isbn">ISBN</string>
+    <string name="name">Nur Fadhilah Sadrah</string>
+    <string name="email">nur.fadhilah19@gmail.com</string>
+    <string name="about">About</string>
+
+    <array name="cover">
+        <item>@drawable/book1</item>
+        <item>@drawable/book2</item>
+        <item>@drawable/book3</item>
+        <item>@drawable/book4</item>
+        <item>@drawable/book5</item>
+        <item>@drawable/book6</item>
+        <item>@drawable/book7</item>
+        <item>@drawable/book8</item>
+        <item>@drawable/book9</item>
+        <item>@drawable/book10</item>
+    </array>
+
+    <string-array name="title">
+        <item>Where the Crawdads Sing</item>
+        <item>Becoming</item>
+        <item>Educated: A Memoir</item>
+        <item>The Silent Patient </item>
+        <item>Eleanor Oliphant Is Completely Fine</item>
+        <item>To Kill a Mockingbird</item>
+        <item>Unfreedom of the Press</item>
+        <item>Howard Stern Comes Again</item>
+        <item>It\'s Not Supposed to Be This Way</item>
+        <item>12 Rules for Life: An Antidote to Chaos</item>
+    </string-array>
+
+    <string-array name="author">
+        <item>Delia Owens</item>
+        <item>Michelle Obama</item>
+        <item>Tara Westover</item>
+        <item>Alex Michaelides</item>
+        <item>Gail Honeyman</item>
+        <item>Harper Lee</item>
+        <item>Mark R. Levin</item>
+        <item>Howard Stern</item>
+        <item>Lysa TerKeurst</item>
+        <item>Jordan B. Peterson</item>
+    </string-array>
+
+    <string-array name="publisher">
+        <item>G.P. Putnam\'s Sons</item>
+        <item>Crown Publishing Group</item>
+        <item>Random House</item>
+        <item>Celadon Books</item>
+        <item>Threshold Editions</item>
+        <item>Penguin Books</item>
+        <item>Harper Perennial</item>
+        <item>Simon &amp; Schuster</item>
+        <item>Thomas Nelson</item>
+        <item>Random House Canada</item>
+    </string-array>
+
+    <string-array name="ISBN">
+        <item>978–0735219090</item>
+        <item>978–1524763138</item>
+        <item>978–0399590504</item>
+        <item>978–1250301697</item>
+        <item>978–1476773094</item>
+        <item>978–0735220690</item>
+        <item>978–0060935467</item>
+        <item>978–1501194290</item>
+        <item>978–0718039851</item>
+        <item>978–0345816023</item>
+    </string-array>
+
+    <string-array name="releaseDate">
+        <item>August 14, 2018</item>
+        <item>November 13, 2018</item>
+        <item>February 20, 2018</item>
+        <item>February 5, 2019</item>
+        <item>May 21, 2019</item>
+        <item>June 5, 2018</item>
+        <item>July 5, 2005</item>
+        <item>May 14, 2019</item>
+        <item>November 13, 2018</item>
+        <item>January 23, 2018</item>
+    </string-array>
+
+    <string-array name="totalPages">
+        <item>384 pages</item>
+        <item>448 pages</item>
+        <item>352 pages</item>
+        <item>336 pages</item>
+        <item>272 pages</item>
+        <item>352 pages</item>
+        <item>336 pages</item>
+        <item>560 pages</item>
+        <item>256 pages</item>
+        <item>409 pages</item>
+    </string-array>
+
+    <string-array name="overview">
+        <item>For years, rumors of the \"Marsh Girl\" have haunted Barkley Cove, a quiet town on the North Carolina coast. So in late 1969, when handsome Chase Andrews is found dead, the locals immediately suspect Kya Clark, the so-called Marsh Girl. But Kya is not what they say. Sensitive and intelligent, she has survived for years alone in the marsh that she calls home, finding friends in the gulls and lessons in the sand. Then the time comes when she yearns to be touched and loved. When two young men from town become intrigued by her wild beauty, Kya opens herself to a new life—until the unthinkable happens.\n\nPerfect for fans of Barbara Kingsolver and Karen Russell, Where the Crawdads Sing is at once an exquisite ode to the natural world, a heartbreaking coming-of-age story, and a surprising tale of possible murder. Owens reminds us that we are forever shaped by the children we once were, and that we are all subject to the beautiful and violent secrets that nature keeps.</item>
+        <item>In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era. As First Lady of the United States of America—the first African American to serve in that role—she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world, dramatically changing the ways that families pursue healthier and more active lives, and standing with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare. \n\nIn her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world\’s most famous address. With unerring honesty and lively wit, she describes her triumphs and her disappointments, both public and private, telling her full story as she has lived it—in her own words and on her own terms. Warm, wise, and revelatory, Becoming is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.</item>
+        <item>An unforgettable memoir about a young girl who, kept out of school, leaves her survivalist family and goes on to earn a PhD from Cambridge University\n\nBorn to survivalists in the mountains of Idaho, Tara Westover was seventeen the first time she set foot in a classroom. Her family was so isolated from mainstream society that there was no one to ensure the children received an education, and no one to intervene when one of Tara\’s older brothers became violent. When another brother got himself into college, Tara decided to try a new kind of life. Her quest for knowledge transformed her, taking her over oceans and across continents, to Harvard and to Cambridge University. Only then would she wonder if she\’d traveled too far, if there was still a way home.</item>
+        <item>Alicia Berenson\’s life is seemingly perfect. A famous painter married to an in-demand fashion photographer, she lives in a grand house with big windows overlooking a park in one of London\’s most desirable areas. One evening her husband Gabriel returns home late from a fashion shoot, and Alicia shoots him five times in the face, and then never speaks another word.\n\nAlicia\’s refusal to talk, or give any kind of explanation, turns a domestic tragedy into something far grander, a mystery that captures the public imagination and casts Alicia into notoriety. The price of her art skyrockets, and she, the silent patient, is hidden away from the tabloids and spotlight at the Grove, a secure forensic unit in North London.\n\nTheo Faber is a criminal psychotherapist who has waited a long time for the opportunity to work with Alicia. His determination to get her to talk and unravel the mystery of why she shot her husband takes him down a twisting path into his own motivations―a search for the truth that threatens to consume him.</item>
+        <item>Unfreedom of the Press is not just another book about the press. Levin shows how those entrusted with news reporting today are destroying freedom of the press from within: \“not government oppression or suppression,\” he writes, but self-censorship, group-think, bias by omission, and passing off opinion, propaganda, pseudo-events, and outright lies as news.\n\nWith the depth of historical background for which his books are renowned, Levin takes the reader on a journey through the early American patriot press, which proudly promoted the principles set forth in the Declaration of Independence and the Constitution, followed by the early decades of the Republic during which newspapers around the young country were open and transparent about their fierce allegiance to one political party or the other.\n\nIt was only at the start of the Progressive Era and the twentieth century that the supposed \“objectivity of the press\” first surfaced, leaving us where we are today: with a partisan party-press overwhelmingly aligned with a political ideology but hypocritically engaged in a massive untruth as to its real nature.Age range:Adult</item>
+        <item>No one\’s ever told Eleanor that life should be better than fine.\n\nMeet Eleanor Oliphant: She struggles with appropriate social skills and tends to say exactly what she\’s thinking. Nothing is missing in her carefully timetabled life of avoiding social interactions, where weekends are punctuated by frozen pizza, vodka, and phone chats with Mummy. \n\nBut everything changes when Eleanor meets Raymond, the bumbling and deeply unhygienic IT guy from her office. When she and Raymond together save Sammy, an elderly gentleman who has fallen on the sidewalk, the three become the kinds of friends who rescue one another from the lives of isolation they have each been living. And it is Raymond\’s big heart that will ultimately help Eleanor find the way to repair her own profoundly damaged one.\n\nSoon to be a major motion picture produced by Reese Witherspoon, Eleanor Oliphant Is Completely Fine is the smart, warm, and uplifting story of an out-of-the-ordinary heroine whose deadpan weirdness and unconscious wit make for an irresistible journey as she realizes…\n\nThe only way to survive is to open your heart. </item>
+        <item>Harper Lee\'s Pulitzer Prize-winning masterwork of honor and injustice in the deep South—and the heroism of one man in the face of blind and violent hatred\n\nOne of the most cherished stories of all time, To Kill a Mockingbird has been translated into more than forty languages, sold more than forty million copies worldwide, served as the basis for an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father—a crusading local lawyer—risks everything to defend a black man unjustly accused of a terrible crime.</item>
+        <item>This book is a feast of conversation and more, as between the lines Stern offers his definitive autobiography—a magnum opus of confession and personal exploration. Tracy Morgan opens up about his near-fatal car crash. Lady Gaga divulges her history with cocaine. Madonna reminisces on her relationship with Tupac Shakur. Bill Murray waxes philosophical on the purpose of life. Jerry Seinfeld offers a master class on comedy. Harvey Weinstein denies the existence of the so-called casting couch. An impressive array of creative visionaries weigh in on what Stern calls \“the climb\”—the stories of how they struggled and eventually prevailed. As he writes in the introduction, \“If you\’re having trouble finding motivation in life and you\’re looking for that extra kick in the ass, you will find it in these pages.\”\n\nInterspersed throughout are rare selections from the Howard Stern Show archives with Donald Trump that depict his own climb: transforming from Manhattan tabloid fixture to reality TV star to president of the United States. Stern also tells of his Moby Dick-like quest to land an interview with Hillary Clinton in the run-up to the 2016 election—one of many newly written revelations from the author. He speaks with extraordinary candor about a variety of subjects, including his overwhelming insecurity early in his career, his revolutionary move from terrestrial radio to SiriusXM, and his belief in the power of psychotherapy.\n\nAs Stern insightfully notes in the introduction: \“The interviews collected here represent my best work and show my personal evolution. But they don\’t just show my evolution. Gathered together like this, they show the evolution of popular culture over the past quarter century.\”</item>
+        <item>What do you do when God\’s timing seems questionable, His lack of intervention hurtful, and His promises doubtful?\n\nLife often looks so very different than we hoped or expected. Some events may simply catch us off guard for a moment, but others shatter us completely. We feel disappointed and disillusioned, and we quietly start to wonder about the reality of God\’s goodness.\n\nLysa TerKeurst understands this deeply. But she\'s also discovered that our disappointments can be the divine appointments our souls need to radically encounter God. In It\'s Not Supposed to Be This Way, Lysa invites us into her own journey of faith and, with grit, vulnerability, and honest humor, helps us to:\n\n \u2022 Stop being pulled into the anxiety of disappointment by discovering how to better process unmet expectations and other painful situations.\n\n \u2022 Train ourselves to recognize the three strategies of the enemy so we can stand strong and persevere through unsettling relationships and uncertain outcomes.\n\n \u2022 Discover the secret of being steadfast and not panicking when God actually does give us more than we can handle.\n\n \u2022 Shift our suspicion that God is cruel or unfair to the biblical assurance that God is protecting and preparing us.\n\n \u2022 Know how to encourage a friend and help her navigate hard realities with real help from God\'s truth.</item>
+        <item>What does everyone in the modern world need to know? Renowned psychologist Jordan B. Peterson\'s answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research.\n\nHumorous, surprising and informative, Dr. Peterson tells us why skateboarding boys and girls must be left alone, what terrible fate awaits those who criticize too easily, and why you should always pet a cat when you meet one on the street. \n\n What does the nervous system of the lowly lobster have to tell us about standing up straight (with our shoulders back) and about success in life? Why did ancient Egyptians worship the capacity to pay careful attention as the highest of gods? What dreadful paths do people tread when they become resentful, arrogant and vengeful? Dr. Peterson journeys broadly, discussing discipline, freedom, adventure and responsibility, distilling the world\'s wisdom into 12 practical and profound rules for life. 12 Rules for Life shatters the modern commonplaces of science, faith and human nature, while transforming and ennobling the mind and spirit of its readers.</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>4.8</item>
+        <item>4.9</item>
+        <item>4.7</item>
+        <item>4.3</item>
+        <item>4.9</item>
+        <item>4.6</item>
+        <item>4.8</item>
+        <item>3.7</item>
+        <item>4.8</item>
+        <item>4.6</item>
+    </string-array>
+
+    <string-array name="totalVotes">
+        <item>19,332 reviews</item>
+        <item>14,499 reviews</item>
+        <item>8,729 reviews</item>
+        <item>2,918 reviews</item>
+        <item>5,379 reviews</item>
+        <item>10,247 reviews</item>
+        <item>2,253 reviews</item>
+        <item>1,875 reviews</item>
+        <item>887 reviews</item>
+        <item>5,223 reviews</item>
+    </string-array>
+
+</resources>
